@@ -1,11 +1,11 @@
-#Template hecho con HTML y CSS
+# Template hecho con HTML y CSS
 
 - Pensado para trabajarse por componentes
 - Diseño responsivo
 - Maquetación básica de un sitio web
-##Vista principal
+## Vista principal
 ![](https://raw.githubusercontent.com/vicmms/templateBasico/master/assets/images/home.JPG)
-##Formulario
+## Formulario
 ![](https://raw.githubusercontent.com/vicmms/templateBasico/master/assets/images/formulario.JPG)
-##Vista móvil
+## Vista móvil
 ![](https://raw.githubusercontent.com/vicmms/templateBasico/master/assets/images/responsive.JPG)
